@@ -1,7 +1,7 @@
 {
   "name": "d3-presentation",
   "title": "D3 Presentation",
-  "description": "Introducing d3.js",
+  "type": "Introducing d3.js",
   "version": "0.1.0",
   "author": {
     "name": "Toon Ketels",
